@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <rootUrl>http://www.xxx.com</rootUrl>
+    <headers>
+        <!-- 配置为自己的参数 -->
+        <header name="Content-Type" value="application/json"></header>
+    </headers>
+    <params>
+    	<param name="test" value="value"></param>
+    </params>
+    <project_name>接口自动化测试报告</project_name>
+</root>
